@@ -1,0 +1,11 @@
+.DS_Store
+.DS_Store
+.DS_Store
+.DS_Store
+.DS_Store
+YY20-REF(neg).txt
+YY20-REF(pos).txt
+YY20-end_run2 pos.txt
+YY20-end_run2 neg.txt
+.DS_Store
+.DS_Store
